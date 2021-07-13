@@ -1,1 +1,101 @@
+h1
+{
+    text-align: center;
+}
+.logo
+{
+    margin-top: 15px;
+}
+.hero
+{
+    text-align: center;
+}
+.sub
+{
+    text-align: center;
+    margin-top: 25px;
+}
+.banner
+{
+    position: relative;
+    left: 271px;
+    bottom: 35px;
+}
 
+.heading textarea
+{
+    float: right;
+    width: 350px;
+    height: 200px;
+    position: relative;
+    right: 330px;
+}
+h3
+{
+    text-align: center;
+    position: relative;
+    left: 165px;
+}
+button
+{
+    padding:20px;
+    margin-bottom: 55px;
+    margin-right: 510px;
+    position:relative;
+    bottom: 120px;
+    font-size: 24px;
+    background-color: black;
+    color: white;
+    float:right;
+}
+button:hover
+{
+    background-color: tomato;
+    color: black;
+}
+button:active
+{
+    background-color: indigo;
+    color: white;
+}
+nav
+{
+    background-color: rgb(59, 59, 59);
+    margin-bottom: 20px;
+}
+nav ul
+{
+    position: relative;
+    text-align: center;
+}
+nav ul li
+{
+    display: inline-block;
+    padding: 10px;
+    padding-bottom: 20px;
+    font-size: 32px;
+    width:10%;
+}
+nav ul li a
+{
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+nav ul li a:hover
+{
+    background-color:rgb(47, 0, 177);
+    padding: 20px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer
+{
+    clear:both;
+    padding: 20px;
+    margin-top: 20px;
+    color: white;
+    background-color: rgb(56, 56, 56);
+}
